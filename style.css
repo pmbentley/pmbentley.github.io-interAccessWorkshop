@@ -1,0 +1,11 @@
+    body {
+      background-color: orange;
+      padding: 0;
+      margin: 0;
+    }
+    p{
+    font-size:40pt;	
+    }
+    #myFirstId{
+    	color: purple;
+    }
